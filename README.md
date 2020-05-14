@@ -1,2 +1,2 @@
 # DevOps Visions
-![GitHub Logo](/assets/MICS/DevOpsVisions.png)
+![DevOps Visions](/assets/MICS/DevOpsVisions.png)
