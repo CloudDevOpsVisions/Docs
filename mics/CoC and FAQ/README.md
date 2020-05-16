@@ -83,9 +83,7 @@ You just need to do the following:
 1. Watch the recording for the previous sessions on YouTube.
 
 ## Where or how can I register?
-Only new user registers here:
-
-[https://bit.ly/2JLYzmi](https://bit.ly/2JLYzmi)
+Only new user registers here:<br>[https://bit.ly/2JLYzmi](https://bit.ly/2JLYzmi)
 
 ## Do I need to register for every event/session
 No, you don't need to register for every event, once you registered for one event, you will get notification by email for all future events.
@@ -94,26 +92,26 @@ No, you don't need to register for every event, once you registered for one even
 I don't add people to the repo, you need to create a fork of the repo in your GitHub account and start working, once you have something nice, raise a pull request and so on.
 
 By providing pull requests which has good work, you will get good reputation and trust among the community and among us.
-Also, look at this post to tell you what you can do and why?
+Also, look at this post to tell you what you can do and why?<br>
 [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
 
 ## Where can I find the DevOps open source project on GitHub?
-Here is the link:
+Here is the link:<br>
 [https://github.com/DevOpsVisions/EasyApp/](https://github.com/DevOpsVisions/EasyApp/)
 
 ## Where can I find past and future events?
-You can click on Events on the Facebook page and you will find them, here is the link:
+You can click on Events on the Facebook page and you will find them, here is the link:<br>
 [https://www.facebook.com/pg/vsalmplanet/events/](https://www.facebook.com/pg/vsalmplanet/events/)
 
 ## Where can I find and download the presentations for the previous events?
-You will find them on the following link:
+You will find them on the following link:<br>
 [https://github.com/DevOpsVisions/LiveSessions](https://github.com/DevOpsVisions/LiveSessions)
 
 ## I don't want to receive any invitation or emails anymore?
 Please reply to any old invitation or send a new email, or inbox us in the Facebook page and let us know, and we will remove you from the milling list.
 
 ## Where can I find more about the survey result and more about the numbers of the community?
-You can find it here:
+You can find it here:<br>
 [https://www.facebook.com/vsalmplanet/posts/2848270665290988](https://www.facebook.com/vsalmplanet/posts/2848270665290988)
 
 ## Chat and discussion during the live session
@@ -126,7 +124,7 @@ We didn't disable the chat for anyone, most people have no issue, try to reconne
 If you register, you will get an email invite which has the meeting link You will find all instructions usually in the event post on the Facebook page.
 
 ## Do I need to install Microsoft Teams?
-No, it's even better you don't, you can use the browser only and join as a guest which means you don't even need a Microsoft account to join, find more info here:
+No, it's even better you don't, you can use the browser only and join as a guest which means you don't even need a Microsoft account to join, find more info here:<br>
 [https://support.microsoft.com/en-us/office/join-a-meeting-without-a-teams-account](https://support.microsoft.com/en-us/office/join-a-meeting-without-a-teams-account-c6efc38f-4e03-4e79-b28f-e65a4c039508)
 
 
@@ -140,11 +138,11 @@ Please try to double-check your email, junk folder and so on, if you still can't
 Yes, all events will be podcasting live from the Facebook page and you can still watch it but the questions will not be monitored during the session, also you will not hear people's questions.
 
 ## If I can't join the live session on MS Teams either the live broadcast on the Facebook, is there any video record for the event?
-Yes, all events will be video recorded and will be published on YouTube with high quality video
+Yes, all events will be video recorded and will be published on YouTube with high quality video<br>
 [https://www.youtube.com/user/MRadwanMSF/](https://www.youtube.com/user/MRadwanMSF/)
 
 ## Where can I find the video record for old sessions?
-You will find them on the YouTube with the same or similar title as the event
+You will find them on the YouTube with the same or similar title as the event<br>
 [https://www.youtube.com/user/MRadwanMSF/](https://www.youtube.com/user/MRadwanMSF/)
 
 
@@ -234,17 +232,17 @@ It just to dived people based on their interest, and We are divided into two gro
 <br><br>
 
 ## Links:
-The recorded video for the first session on how to become a DevOps Expert
+The recorded video for the first session on how to become a DevOps Expert<br>
 https://www.facebook.com/vsalmplanet/posts/2855277057923682
 
-Why you should join our community
+Why you should join our community<br>
 https://www.facebook.com/vsalmplanet/posts/2845456158905772
 
-Old survey result
+Old survey result<br>
 https://www.facebook.com/vsalmplanet/posts/2848270665290988
 
-Answer quiz and get free exam voucher 50%
+Answer quiz and get free exam voucher 50%<br>
 https://www.facebook.com/vsalmplanet/posts/2858081630976558
 
-The Registration form for new people
+The Registration form for new people<br>
 https://bit.ly/2JLYzmi
