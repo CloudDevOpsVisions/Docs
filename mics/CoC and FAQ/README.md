@@ -185,10 +185,12 @@ You need to learn the culture of the community, some of that as the following:
 
 ## Can I ask any question regarding any subject outside the session topic?
 **If you are in Group (A) session**
+
 You are only allowed to ask related questions to the discussed topics.
 Most of the questions will be at the end of the session, but you can ask a few questions during the session.
 
 **If you are in Group (B) session**
+
 You can ask anything you want at any time, but you have to go for the prerequisites first to make sure this question not already has answer which you can access, here is the the prerequisites:
 1. Deeply read the Code of Conduct (CoC) and FAQ
 1. If it's technical questions, search my YouTube channel for similar topics first and watch the founded video and if it doesn't cover your questions, prepare your question.
