@@ -1,22 +1,23 @@
 # DevOps Visions Community Code of Conduct (CoC) and FAQ
 ## Contents
-- [Intro (Must read)](#intro-(must-read))
+- [Intro (Must read)](#intro-must-read)
 - [Recording session](#recording-session)
 - [Respect everyone](#respect-everyone)
 - [Using your microphone during the session](#using-your-microphone-during-the-session)
 - [Our main source of communication](#our-main-source-of-communication)
-- [Supporting times for old videos/sessions](#supporting-times-for-old-videos/sessions)
+- [Supporting times for old videos/sessions](#supporting-times-for-old-videossessions)
 - [The open source projects (Group B only)](#the-open-source-projects-group-b-only)
 - [Speaking during sessions](#speaking-during-sessions)
 - [Post session survey](#post-session-survey)
 - [During session survey (Group B only)](#during-session-survey-group-b-only)
 - [I am new. What I should do to join? what can I do? How can I participate?](#i-am-new-what-i-should-do-to-join-what-can-i-do-how-can-i-participate)
-- [Where or how can I register?](#where-or-how-can-i-register?)
-- [Do I need to register for every event/session?](#do-i-need-to-register-for-every-event/session)
-- [I want to contribute to the open source project on GitHub, can you add me?](#i-want-to-contribute-to-the-open-source-project-on-github,-can-you-add-me?)
-- [Where can I find the DevOps open source project on GitHub?](#where-can-I-find-the-DevOps-open-source-project-on-GitHub?)
-- [Where can I find past and future events?](#where-can-I-find-past-and-future-events?)
-- [I don't want to receive any invitation or emails anymore?](#i-don't-want-to-receive-any-invitation-or-emails-anymore?)
+- [Where or how can I register?](#where-or-how-can-i-register)
+- [Do I need to register for every event/session?](#do-i-need-to-register-for-every-eventsession)
+- [I want to contribute to the open source project on GitHub, can you add me?](#i-want-to-contribute-to-the-open-source-project-on-github-can-you-add-me)
+- [Where can I find the DevOps open source project on GitHub?](#where-can-i-find-the-devops-open-source-project-on-github)
+- [Where can I find past and future events?](#where-can-i-find-past-and-future-events)
+- [Where can I find and download the presentations for the previous events??](#where-can-i-find-and-download-the-presentations-for-the-previous-events)
+- [I don't want to receive any invitation or emails anymore?](#i-dont-want-to-receive-any-invitation-or-emails-anymore)
 - [Where can I find more about the survey result and more about the numbers of the community?](#where-can-I-find-more-about-the-survey-result-and-more-about-the-numbers-of-the-community?)
 - [Chat and discussion during the live session](#chat-and-discussion-during-the-live-session)
 - [I have issue in the chat area during the session and I can't send message?](#i-have-issue-in-the-chat-area-during-the-session-and-I-can't-send-message?)
@@ -100,7 +101,7 @@ Here is the link:
 [https://github.com/DevOpsVisions/EasyApp/](https://github.com/DevOpsVisions/EasyApp/)
 
 ## Where can I find past and future events?
-You can click on Events on the Facebook page and you will find them, here is the link
+You can click on Events on the Facebook page and you will find them, here is the link:
 [https://www.facebook.com/pg/vsalmplanet/events/](https://www.facebook.com/pg/vsalmplanet/events/)
 
 ## Where can I find and download the presentations for the previous events?
