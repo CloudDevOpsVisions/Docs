@@ -28,7 +28,6 @@
 - [If I can't join the live session or either the live broadcast, is there any video record for the event?](#if-I-can't-join-the-live-session-on-mS-teams-either-the-live-broadcast-on-the-facebook,-is-there-any-video-record-for-the-event?)
 - [Where can I find the video record for old sessions?](#where-can-i-find-the-video-record-for-old-sessions?)
 - [I want to contribute but I don't know what to do?](#i-want-to-contribute-but-i-don't-know-what-to-do?)
-- [What if I raised a Pull Request (PR) and it’s not accepted?](#what-if-i-raised-a-pull-request-(pr)-and-it’s-not-accepted?)
 - [What is need to contributor to community?](#what-is-need-to-contributor-to-community?)
 - [Can I ask any question regarding any subject outside the session topic?](#can-I-ask-any-question-regarding-any-subject-outside-the-session-topic?)
 - [How this community can help me?](#how-this-community-can-help-me?)
@@ -164,10 +163,6 @@ https://github.com/DevOpsVisions/EasyApp/projects/1
     * Docs
 https://github.com/DevOpsVisions/Docs/projects/1?
 
-##What if I raised a Pull Request (PR) and it’s not accepted?
-It it’s not accepted without any comments, it means you failed to provide any value, therefore always do a PR which has small changes and learn how to provide values. Just think if you can really provide a value, no one will reject that value even if it’s very small but if your PR has many changes and the feedback will take longer time than to do the task by the one that will give the feedback, probably you will not receive a feedback.
-E.g. if you correct a spelling mistake in few words and raise a PR, no one will reject that 😊
-So, again, always do a small PR and learn from the feedback for your mistakes.
 
 ## What is need to contributor to community?
 - You need to learn the culture of the community, some of that as the following:
