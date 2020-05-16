@@ -9,10 +9,10 @@
 - [The open source projects (Group B only)](#the-open-source-projects-(Group-B-only))
 - [Speaking during sessions](#speaking-during-sessions)
 - [Post session survey](#post-session-survey)
-- [During session survey (Group B only)](#during-session-survey-(Group-B-only))
+- [During session survey (Group B only)](#during-session-survey-Group-B-only)
 - [I am new. What I should do to join? What can I do? How can I participate?](#i-am-new.-What-I-should-do-to-join?-What-can-I-do?-How-can-I-participate?)
 - [Where or how can I register?](#where-or-how-can-I-register?)
-- [Do I need to register for every event/session?](#do-I-need-to-register-for-every-event/session?)
+- [Do I need to register for every event/session?](#do-I-need-to-register-for-every-event/session)
 - [I want to contribute to the open source project on GitHub, can you add me?](#i-want-to-contribute-to-the-open-source-project-on-GitHub,-can-you-add-me?)
 - [Where can I find the DevOps open source project on GitHub?](#where-can-I-find-the-DevOps-open-source-project-on-GitHub?)
 - [Where can I find past and future events?](#where-can-I-find-past-and-future-events?)
@@ -85,7 +85,7 @@ You just need to do the following:
 Only new user registers here:
 [https://bit.ly/2JLYzmi](https://bit.ly/2JLYzmi)
 
-## Do I need to register for every event/session?
+## Do I need to register for every event/session
 No, you don't need to register for every event, once you registered for one event, you will get notification by email for all future events.
 
 ## I want to contribute to the open source project on GitHub, can you add me?
