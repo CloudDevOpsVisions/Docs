@@ -84,6 +84,7 @@ You just need to do the following:
 
 ## Where or how can I register?
 Only new user registers here:
+
 [https://bit.ly/2JLYzmi](https://bit.ly/2JLYzmi)
 
 ## Do I need to register for every event/session
