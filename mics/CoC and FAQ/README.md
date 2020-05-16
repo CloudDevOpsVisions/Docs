@@ -9,7 +9,7 @@
 - [The open source projects (Group B only)](#the-open-source-projects-(Group-B-only))
 - [Speaking during sessions](#speaking-during-sessions)
 - [Post session survey](#post-session-survey)
-- [During session survey (Group B only)](#during-session-survey-Group-B-only)
+- [During session survey (Group B only)](#during-session-survey-group-b-only)
 - [I am new. What I should do to join? What can I do? How can I participate?](#i-am-new.-What-I-should-do-to-join?-What-can-I-do?-How-can-I-participate?)
 - [Where or how can I register?](#where-or-how-can-I-register?)
 - [Do I need to register for every event/session?](#do-I-need-to-register-for-every-event/session)
