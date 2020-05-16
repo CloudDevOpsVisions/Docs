@@ -10,7 +10,7 @@
 - [Speaking during sessions](#speaking-during-sessions)
 - [Post session survey](#post-session-survey)
 - [During session survey (Group B only)](#during-session-survey-group-b-only)
-- [I am new. What I should do to join? what can I do? How can I participate?](#i-am-new-what-i-should-do-to-join?-what-can-i-do?-how-can-i-participate?)
+- [I am new. What I should do to join? what can I do? How can I participate?](#i-am-new.-what-i-should-do-to-join-what-can-i-do-how-can-i-participate)
 - [Where or how can I register?](#where-or-how-can-i-register?)
 - [Do I need to register for every event/session?](#do-i-need-to-register-for-every-event/session)
 - [I want to contribute to the open source project on GitHub, can you add me?](#i-want-to-contribute-to-the-open-source-project-on-github,-can-you-add-me?)
