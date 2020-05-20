@@ -1,38 +1,39 @@
 # DevOps Visions Community Code of Conduct (CoC) and FAQ
 ## Contents
-- [Intro (Must read)](#intro-(must-read))
+- [Intro (Must read)](#intro-must-read)
 - [Recording session](#recording-session)
 - [Respect everyone](#respect-everyone)
 - [Using your microphone during the session](#using-your-microphone-during-the-session)
 - [Our main source of communication](#our-main-source-of-communication)
-- [Supporting times for old videos/sessions](#supporting-times-for-old-videos/sessions)
-- [The open source projects (Group B only)](#the-open-source-projects-(Group-B-only))
+- [Supporting times for old videos/sessions](#supporting-times-for-old-videossessions)
+- [The open source projects (Group B only)](#the-open-source-projects-group-b-only)
 - [Speaking during sessions](#speaking-during-sessions)
 - [Post session survey](#post-session-survey)
-- [During session survey (Group B only)](#during-session-survey-(Group-B-only))
-- [I am new. What I should do to join? What can I do? How can I participate?](#i-am-new.-What-I-should-do-to-join?-What-can-I-do?-How-can-I-participate?)
-- [Where or how can I register?](#where-or-how-can-I-register?)
-- [Do I need to register for every event/session?](#do-I-need-to-register-for-every-event/session?)
-- [I want to contribute to the open source project on GitHub, can you add me?](#i-want-to-contribute-to-the-open-source-project-on-GitHub,-can-you-add-me?)
-- [Where can I find the DevOps open source project on GitHub?](#where-can-I-find-the-DevOps-open-source-project-on-GitHub?)
-- [Where can I find past and future events?](#where-can-I-find-past-and-future-events?)
-- [I don't want to receive any invitation or emails anymore?](#i-don't-want-to-receive-any-invitation-or-emails-anymore?)
-- [Where can I find more about the survey result and more about the numbers of the community?](#where-can-I-find-more-about-the-survey-result-and-more-about-the-numbers-of-the-community?)
+- [During session survey (Group B only)](#during-session-survey-group-b-only)
+- [I am new. What I should do to join? what can I do? How can I participate?](#i-am-new-what-i-should-do-to-join-what-can-i-do-how-can-i-participate)
+- [Where or how can I register?](#where-or-how-can-i-register)
+- [Do I need to register for every event/session?](#do-i-need-to-register-for-every-eventsession)
+- [I want to contribute to the open source project on GitHub, can you add me?](#i-want-to-contribute-to-the-open-source-project-on-github-can-you-add-me)
+- [Where can I find the DevOps open source project on GitHub?](#where-can-i-find-the-devops-open-source-project-on-github)
+- [Where can I find past and future events?](#where-can-i-find-past-and-future-events)
+- [Where can I find and download the presentations for the previous events??](#where-can-i-find-and-download-the-presentations-for-the-previous-events)
+- [I don't want to receive any invitation or emails anymore?](#i-dont-want-to-receive-any-invitation-or-emails-anymore)
+- [Where can I find more about the survey result and more about the numbers of the community?](#where-can-i-find-more-about-the-survey-result-and-more-about-the-numbers-of-the-community)
 - [Chat and discussion during the live session](#chat-and-discussion-during-the-live-session)
-- [I have issue in the chat area during the session and I can't send message?](#i-have-issue-in-the-chat-area-during-the-session-and-I-can't-send-message?)
-- [How to join the meeting?](#how-to-join-the-meeting?)
-- [Do I need to install Microsoft Teams?](#do-I-need-to-install-Microsoft-Teams?)
-- [I have issue joining the meeting using MS Teams?](#i-have-issue-joining-the-meeting-using-MS-Teams?)
-- [I registered but I didn't get an invitation?](#i-registered-but-I-didn't-get-an-invitation?)
-- [If I can't join the live session, can I still watch it?](#if-I-can't-join-the-live-session,-can-I-still-watch-it?)
-- [If I can't join the live session or either the live broadcast, is there any video record for the event?](#if-I-can't-join-the-live-session-on-mS-teams-either-the-live-broadcast-on-the-facebook,-is-there-any-video-record-for-the-event?)
-- [Where can I find the video record for old sessions?](#where-can-i-find-the-video-record-for-old-sessions?)
-- [I want to contribute but I don't know what to do?](#i-want-to-contribute-but-i-don't-know-what-to-do?)
-- [What if I raised a Pull Request (PR) and it’s not accepted?](#what-if-i-raised-a-pull-request-(pr)-and-it’s-not-accepted?)
-- [What is need to contributor to community?](#what-is-need-to-contributor-to-community?)
-- [Can I ask any question regarding any subject outside the session topic?](#can-I-ask-any-question-regarding-any-subject-outside-the-session-topic?)
-- [How this community can help me?](#how-this-community-can-help-me?)
-- [I heard about groups, so what are they?](#i-heard-about-groups,-so-what-are-they?)
+- [I have issue in the chat area during the session and I can't send message?](#i-have-issue-in-the-chat-area-during-the-session-and-i-cant-send-message)
+- [How to join the meeting?](#how-to-join-the-meeting)
+- [Do I need to install Microsoft Teams?](#do-i-need-to-install-microsoft-teams)
+- [I have issue joining the meeting using MS Teams?](#i-have-issue-joining-the-meeting-using-ms-teams)
+- [I registered but I didn't get an invitation?](#i-registered-but-i-didnt-get-an-invitation)
+- [If I can't join the live session, can I still watch it?](#if-i-cant-join-the-live-session-can-i-still-watch-it)
+- [If I can't join the live session or either the live broadcast, is there any video record for the event?](#if-i-cant-join-the-live-session-on-ms-teams-either-the-live-broadcast-on-the-facebook-is-there-any-video-record-for-the-event)
+- [Where can I find the video record for old sessions?](#where-can-i-find-the-video-record-for-old-sessions)
+- [I want to contribute but I don't know what to do?](#i-want-to-contribute-but-i-dont-know-what-to-do)
+- [What if I raised a Pull Request (PR) and it’s not accepted?](#what-if-i-raised-a-pull-request-pr-and-it’s-not-accepted)
+- [What is needed to contributor to community?](#what-is-needed-to-contributor-to-community)
+- [Can I ask any question regarding any subject outside the session topic?](#can-i-ask-any-question-regarding-any-subject-outside-the-session-topic)
+- [How this community can help me?](#how-this-community-can-help-me)
+- [I heard about groups, so what are they?](#i-heard-about-groups-so-what-are-they)
 
 
 ## Intro (Must read)
@@ -82,36 +83,35 @@ You just need to do the following:
 1. Watch the recording for the previous sessions on YouTube.
 
 ## Where or how can I register?
-Only new user registers here:
-[https://bit.ly/2JLYzmi](https://bit.ly/2JLYzmi)
+Only new user registers here:<br>[https://bit.ly/2JLYzmi](https://bit.ly/2JLYzmi)
 
-## Do I need to register for every event/session?
+## Do I need to register for every event/session
 No, you don't need to register for every event, once you registered for one event, you will get notification by email for all future events.
 
 ## I want to contribute to the open source project on GitHub, can you add me?
 I don't add people to the repo, you need to create a fork of the repo in your GitHub account and start working, once you have something nice, raise a pull request and so on.
 
 By providing pull requests which has good work, you will get good reputation and trust among the community and among us.
-Also, look at this post to tell you what you can do and why?
+Also, look at this post to tell you what you can do and why?<br>
 [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
 
 ## Where can I find the DevOps open source project on GitHub?
-Here is the link:
+Here is the link:<br>
 [https://github.com/DevOpsVisions/EasyApp/](https://github.com/DevOpsVisions/EasyApp/)
 
 ## Where can I find past and future events?
-You can click on Events on the Facebook page and you will find them, here is the link
+You can click on Events on the Facebook page and you will find them, here is the link:<br>
 [https://www.facebook.com/pg/vsalmplanet/events/](https://www.facebook.com/pg/vsalmplanet/events/)
 
 ## Where can I find and download the presentations for the previous events?
-You will find them on the following link:
+You will find them on the following link:<br>
 [https://github.com/DevOpsVisions/LiveSessions](https://github.com/DevOpsVisions/LiveSessions)
 
 ## I don't want to receive any invitation or emails anymore?
 Please reply to any old invitation or send a new email, or inbox us in the Facebook page and let us know, and we will remove you from the milling list.
 
 ## Where can I find more about the survey result and more about the numbers of the community?
-You can find it here:
+You can find it here:<br>
 [https://www.facebook.com/vsalmplanet/posts/2848270665290988](https://www.facebook.com/vsalmplanet/posts/2848270665290988)
 
 ## Chat and discussion during the live session
@@ -124,7 +124,7 @@ We didn't disable the chat for anyone, most people have no issue, try to reconne
 If you register, you will get an email invite which has the meeting link You will find all instructions usually in the event post on the Facebook page.
 
 ## Do I need to install Microsoft Teams?
-No, it's even better you don't, you can use the browser only and join as a guest which means you don't even need a Microsoft account to join, find more info here:
+No, it's even better you don't, you can use the browser only and join as a guest which means you don't even need a Microsoft account to join, find more info here:<br>
 [https://support.microsoft.com/en-us/office/join-a-meeting-without-a-teams-account](https://support.microsoft.com/en-us/office/join-a-meeting-without-a-teams-account-c6efc38f-4e03-4e79-b28f-e65a4c039508)
 
 
@@ -138,11 +138,11 @@ Please try to double-check your email, junk folder and so on, if you still can't
 Yes, all events will be podcasting live from the Facebook page and you can still watch it but the questions will not be monitored during the session, also you will not hear people's questions.
 
 ## If I can't join the live session on MS Teams either the live broadcast on the Facebook, is there any video record for the event?
-Yes, all events will be video recorded and will be published on YouTube with high quality video
+Yes, all events will be video recorded and will be published on YouTube with high quality video<br>
 [https://www.youtube.com/user/MRadwanMSF/](https://www.youtube.com/user/MRadwanMSF/)
 
 ## Where can I find the video record for old sessions?
-You will find them on the YouTube with the same or similar title as the event
+You will find them on the YouTube with the same or similar title as the event<br>
 [https://www.youtube.com/user/MRadwanMSF/](https://www.youtube.com/user/MRadwanMSF/)
 
 
@@ -164,13 +164,13 @@ https://github.com/DevOpsVisions/EasyApp/projects/1
     * Docs
 https://github.com/DevOpsVisions/Docs/projects/1?
 
-##What if I raised a Pull Request (PR) and it’s not accepted?
+## What if I raised a Pull Request (PR) and it’s not accepted?
 It it’s not accepted without any comments, it means you failed to provide any value, therefore always do a PR which has small changes and learn how to provide values. Just think if you can really provide a value, no one will reject that value even if it’s very small but if your PR has many changes and the feedback will take longer time than to do the task by the one that will give the feedback, probably you will not receive a feedback.
-E.g. if you correct a spelling mistake in few words and raise a PR, no one will reject that 😊
+E.g. if you correct a spelling mistake in few words or fix broken links and raise a PR, no one will reject that 😊
 So, again, always do a small PR and learn from the feedback for your mistakes.
 
-## What is need to contributor to community?
-- You need to learn the culture of the community, some of that as the following:
+## What is needed to contributor to community?
+You need to learn the culture of the community, some of that as the following:
 - Honest and transparent.
 - Contributor vs. Consumer
 - Initiative and Proactive vs. reactive 
@@ -185,10 +185,12 @@ So, again, always do a small PR and learn from the feedback for your mistakes.
 
 ## Can I ask any question regarding any subject outside the session topic?
 **If you are in Group (A) session**
+
 You are only allowed to ask related questions to the discussed topics.
 Most of the questions will be at the end of the session, but you can ask a few questions during the session.
 
 **If you are in Group (B) session**
+
 You can ask anything you want at any time, but you have to go for the prerequisites first to make sure this question not already has answer which you can access, here is the the prerequisites:
 1. Deeply read the Code of Conduct (CoC) and FAQ
 1. If it's technical questions, search my YouTube channel for similar topics first and watch the founded video and if it doesn't cover your questions, prepare your question.
@@ -232,17 +234,17 @@ It just to dived people based on their interest, and We are divided into two gro
 <br><br>
 
 ## Links:
-The recorded video for the first session on how to become a DevOps Expert
+The recorded video for the first session on how to become a DevOps Expert<br>
 https://www.facebook.com/vsalmplanet/posts/2855277057923682
 
-Why you should join our community
+Why you should join our community<br>
 https://www.facebook.com/vsalmplanet/posts/2845456158905772
 
-Old survey result
+Old survey result<br>
 https://www.facebook.com/vsalmplanet/posts/2848270665290988
 
-Answer quiz and get free exam voucher 50%
+Answer quiz and get free exam voucher 50%<br>
 https://www.facebook.com/vsalmplanet/posts/2858081630976558
 
-The Registration form for new people
+The Registration form for new people<br>
 https://bit.ly/2JLYzmi
