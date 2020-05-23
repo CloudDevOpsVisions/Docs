@@ -10,7 +10,9 @@
 - [Speaking during sessions](#speaking-during-sessions)
 - [Post session survey](#post-session-survey)
 - [During session survey (Group B only)](#during-session-survey-group-b-only)
-- [I am new. What I should do to join? what can I do? How can I participate?](#i-am-new-what-i-should-do-to-join-what-can-i-do-how-can-i-participate)
+- [I can't find my question/asnwer here what I should do?](#i-cant find-my-questionasnwer-here-what-i-should-do)
+- [I am new. What I should do to join? what can I do? How can I participate?]
+(#i-am-new-what-i-should-do-to-join-what-can-i-do-how-can-i-participate)
 - [Where or how can I register?](#where-or-how-can-i-register)
 - [Do I need to register for every event/session?](#do-i-need-to-register-for-every-eventsession)
 - [I want to contribute to the open source project on GitHub, can you add me?](#i-want-to-contribute-to-the-open-source-project-on-github-can-you-add-me)
@@ -75,6 +77,10 @@ The post session survey is very important. The improvement and the decisions reg
 
 ## During session survey (Group B only)
 For Group B only, there is during session survey, please keep it opened all the time during the session, I will usually use it to take your opinion about any point or for voting during the session to take decision regarding the subject to continue explaining or enough etc..
+
+## I can't find my question/asnwer here what I should do?
+You just need to raise an issue with your question on the Docs repo on GitHub as the following::<br>
+[Raise an issue to ask a new question here](https://github.com/DevOpsVisions/Docs/issues)
 
 ## I am new. What I should do to join? What can I do? How can I participate?
 You just need to do the following:
