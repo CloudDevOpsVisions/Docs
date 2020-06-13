@@ -1,4 +1,4 @@
-# DevOps Visions Community Code of Conduct (CoC) and FAQ
+# Cloud DevOps Visions Community Code of Conduct (CoC) and FAQ
 ## Contents
 - [Intro (Must read)](#intro-must-read)
 - [Recording session](#recording-session)
@@ -30,7 +30,7 @@
 - [If I can't join the live session or either the live broadcast, is there any video record for the event?](#if-i-cant-join-the-live-session-on-ms-teams-either-the-live-broadcast-on-the-facebook-is-there-any-video-record-for-the-event)
 - [Where can I find the video record for old sessions?](#where-can-i-find-the-video-record-for-old-sessions)
 - [I want to contribute but I don't know what to do?](#i-want-to-contribute-but-i-dont-know-what-to-do)
-- [What if I raised a Pull Request (PR) and it’s not accepted?](#what-if-i-raised-a-pull-request-pr-and-it’s-not-accepted)
+- [What if I raised a Pull Request (PR) and it’s not accepted?](#what-if-i-raised-a-pull-request-pr-and-its-not-accepted)
 - [What is needed to contributor to community?](#what-is-needed-to-contributor-to-community)
 - [Can I ask any question regarding any subject outside the session topic?](#can-i-ask-any-question-regarding-any-subject-outside-the-session-topic)
 - [How this community can help me?](#how-this-community-can-help-me)
@@ -44,7 +44,7 @@ Please always try to find an answer here for your question or issue before askin
 
 Also, please try to read this document before joining the live sessions or contribute to the open source projects
 If you couldn't find your question or issue here in this document, please raise an issue on GitHub on the following project:
-[https://github.com/DevOpsVisions/Docs/issues](https://github.com/DevOpsVisions/Docs/issues)
+- [Cloud DevOps Visions Issues](https://github.com/CloudDevOpsVisions/Docs/issues)
 
 ## Recording session
 All sessions will be recorded and will be published on YouTube and Facebook. If you don't like to be recorded, please don't join the session.
@@ -56,10 +56,10 @@ Please respect everyone as it is important no matter what gender is, religion, o
 Please put your mic off all the time, only open mic when you are speaking and turn it off immediately after you stop talking.
 
 ## Our main source of communication
-Our main source of information and communication is GitHub under GitHub/DevOpsVisions. So, please keep connected through it. You will find many answers and help to most of your questions about anything related to live sessions, groups, open source, etc. 
+Our main source of information and communication is GitHub under GitHub/CloudDevOpsVisions. So, please keep connected through it. You will find many answers and help to most of your questions about anything related to live sessions, groups, open source, etc. 
 
 It will explain many of your inquiries about our community. So, please try to spend some time reading the Readme and several documents under all repos to get familiar with what we do, how we do it and why we do it.
-[https://github.com/DevOpsVisions/Docs](https://github.com/DevOpsVisions/Docs)
+- [Cloud DevOps Visions Docs.](https://github.com/CloudDevOpsVisions/Docs)
 
 ## Supporting times for old videos/sessions
 Since one of the main goals of the live session is to support the old published free courses and videos. 
@@ -78,8 +78,8 @@ The post session survey is very important. The improvement and the decisions reg
 For Group B only, there is during session survey, please keep it opened all the time during the session, I will usually use it to take your opinion about any point or for voting during the session to take decision regarding the subject to continue explaining or enough etc..
 
 ## I can't find my question/asnwer here what I should do?
-You just need to raise an issue with your question on the Docs repo on GitHub as the following::<br>
-[Raise an issue to ask a new question here](https://github.com/DevOpsVisions/Docs/issues)
+You just need to raise an issue with your question on the Docs repo on GitHub as the following:<br>
+[Raise an issue to ask a new question here](https://github.com/CloudDevOpsVisions/Docs/issues)
 
 ## I am new. What I should do to join? What can I do? How can I participate?
 You just need to do the following:
@@ -102,7 +102,7 @@ Also, look at this post to tell you what you can do and why?<br>
 
 ## Where can I find the DevOps open source project on GitHub?
 Here is the link:<br>
-[https://github.com/DevOpsVisions/EasyApp/](https://github.com/DevOpsVisions/EasyApp/)
+[https://github.com/CloudDevOpsVisions/EasyApp/](https://github.com/CloudDevOpsVisions/EasyApp/)
 
 ## Where can I find past and future events?
 You can click on Events on the Facebook page and you will find them, here is the link:<br>
@@ -110,7 +110,7 @@ You can click on Events on the Facebook page and you will find them, here is the
 
 ## Where can I find and download the presentations for the previous events?
 You will find them on the following link:<br>
-[https://github.com/DevOpsVisions/LiveSessions](https://github.com/DevOpsVisions/LiveSessions)
+[https://github.com/CloudDevOpsVisions/LiveSessions](https://github.com/CloudDevOpsVisions/LiveSessions)
 
 ## I don't want to receive any invitation or emails anymore?
 Please reply to any old invitation or send a new email, or inbox us in the Facebook page and let us know, and we will remove you from the milling list.
@@ -159,15 +159,15 @@ How to start contribution to the DevOps Open Source or any other project, There 
 
 1. If you don’t want to do it, just raise an issue/enhancement/bug, etc. on GitHub related project.
     * EasyApp
-https://github.com/DevOpsVisions/EasyApp/issues
+https://github.com/CloudDevOpsVisions/EasyApp/issues
     * Docs
-https://github.com/DevOpsVisions/Docs/issues
+https://github.com/CloudDevOpsVisions/Docs/issues
 
 1. If you really want to contribute and do anything but you don’t know from where to start, just go to the backlog and pick any item that you see you can do it, then do as the same as the first point, fork, do it and raise PR.
     * EasyApp
-https://github.com/DevOpsVisions/EasyApp/projects/1
+https://github.com/CloudDevOpsVisions/EasyApp/projects/1
     * Docs
-https://github.com/DevOpsVisions/Docs/projects/1?
+https://github.com/CloudDevOpsVisions/Docs/projects/1?
 
 ## What if I raised a Pull Request (PR) and it’s not accepted?
 It it’s not accepted without any comments, it means you failed to provide any value, therefore always do a PR which has small changes and learn how to provide values. Just think if you can really provide a value, no one will reject that value even if it’s very small but if your PR has many changes and the feedback will take longer time than to do the task by the one that will give the feedback, probably you will not receive a feedback.
