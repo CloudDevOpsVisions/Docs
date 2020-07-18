@@ -252,4 +252,4 @@ Answer quiz and get free exam voucher 50%<br>
 https://www.facebook.com/vsalmplanet/posts/2858081630976558
 
 The Registration form for new people<br>
-https://bit.ly/2JLYzmi
+https://lnkd.in/gxajUE7
