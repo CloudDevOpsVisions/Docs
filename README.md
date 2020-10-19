@@ -17,7 +17,7 @@ It will teach and help people to implement the best practices through different 
 DevOps is one of the most emerging topics of software development today as it improves the whole software development process. Still, unfortunately, there is no clear, detailed, and explicit model to teach the best Modern Engineering practices on real-world projects; this was the main problem that leads to Cloud DevOps Visions community establishment.
 
 # Cloud DevOps Visions memebers
-**Cloud DevOps Visions** has more than 1100 memebers from more than 40 countrious
+**Cloud DevOps Visions** has more than 1100 memebers from more than 40 countries
 ![Cloud DevOps Visions](https://raw.githubusercontent.com/CloudDevOpsVisions/Docs/master/assets/MICS/CDV-members.gif)
 
 **Cloud DevOps Visions** provides different services and several guides like live stream sessions, mentoring people like helping them to improve their career path and development, or even finding a job. Also, open-source projects and many others (e.g., people can work on the DevOps open-source projects and studying group because it a place to show yourself, your skills, commitment, and passion to all the communities.
