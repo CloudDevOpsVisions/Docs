@@ -88,7 +88,7 @@ You just need to do the following:
 1. Watch the recording for the previous sessions on YouTube.
 
 ## Where or how can I register?
-Only new user registers here:<br>[https://lnkd.in/gxajUE7](https://lnkd.in/gxajUE7)
+Only new user registers here:<br>[http://bit.ly/3nUaEbc](http://bit.ly/3nUaEbc)
 
 ## Do I need to register for every event/session
 No, you don't need to register for every event, once you registered for one event, you will get notification by email for all future events.
