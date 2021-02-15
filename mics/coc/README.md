@@ -248,7 +248,7 @@ It just to dived people based on their interest, and We are divided into two gro
 
 [Past events/sessions](https://www.youtube.com/watch?v=tE4d6f4Thzk&list=PLe14MLC-Nwy5m-rJkznGnSkyEIFPmdVaP)
 
-[The Registration form for new people](https://lnkd.in/gxajUE7)
+[The Registration form for new people](http://bit.ly/3nUaEbc)
 
 [DevOps Project (EasyApp)](https://github.com/CloudDevOpsVisions/EasyApp/)
 
