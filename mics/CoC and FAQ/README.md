@@ -97,10 +97,12 @@ I don't add people to the repo, you need to create a fork of the repo in your Gi
 
 By providing pull requests which has good work, you will get good reputation and trust among the community and among us.
 Also, look at this post to tell you what you can do and why?
+
 [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
 
 ## Where can I find the DevOps open source project on GitHub?
 Here is the link:
+
 [https://github.com/CloudDevOpsVisions/EasyApp/](https://github.com/CloudDevOpsVisions/EasyApp/)
 
 ## Where can I find past and future events?
@@ -114,6 +116,7 @@ For future events, it will be scheduled on YouTube on the following link:
 
 ## Where can I find and download the presentations for the previous events?
 You will find them on the following link:
+
 [https://github.com/CloudDevOpsVisions/LiveSessions](https://github.com/CloudDevOpsVisions/LiveSessions)
 
 ## I don't want to receive any invitation or emails anymore?
