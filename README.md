@@ -24,10 +24,10 @@ DevOps is one of the most emerging topics of software development today as it im
 [Click here](https://github.com/CloudDevOpsVisions/LiveSessions)
 
 # Cloud DevOps Visions memebers
-**Cloud DevOps Visions** has more than 1100 memebers from more than 40 countries
+**Cloud DevOps Visions** has more than 1100 memebers from more than 40 countries.
+
 ![Cloud DevOps Visions](https://raw.githubusercontent.com/CloudDevOpsVisions/Docs/master/assets/MICS/CDV-members.gif)
 
-**Cloud DevOps Visions** provides different services and several guides like live stream sessions, mentoring people like helping them to improve their career path and development, or even finding a job. Also, open-source projects and many others (e.g., people can work on the DevOps open-source projects and studying group because it a place to show yourself, your skills, commitment, and passion to all the communities.
 
 # What is EasyApp?
 ![Cloud DevOps Visions](https://raw.githubusercontent.com/CloudDevOpsVisions/Docs/master/assets/MICS/what-is-EasyApp.gif)
@@ -96,7 +96,7 @@ You need to keep connected as the following:
 
 
 # Do you have any questions or inquires?
-[See the Code of Conduct and FAQ page here](https://github.com/CloudDevOpsVisions/Docs/tree/master/mics/CoC%20and%20FAQ)
+[See the Code of Conduct and FAQ page here](https://github.com/CloudDevOpsVisions/Docs/tree/master/mics/coc)
 
 ### Quick Start
 
